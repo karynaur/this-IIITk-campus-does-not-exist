@@ -1,3 +1,0 @@
-MechanicalSoup
-nltk
-bs4
