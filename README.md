@@ -15,5 +15,5 @@ We then took a model trained on images of church buildings and trained it with t
 [Colab](https://colab.research.google.com/drive/1reT4mpoqwjiphpTgQB5QvDQ1FJHEXEQp?usp=sharing)
 
 ## Acknolwdgements
-1. [StyleGan2(https://github.com/NVlabs/stylegan2)
+1. [StyleGan2](https://github.com/NVlabs/stylegan2)
 
